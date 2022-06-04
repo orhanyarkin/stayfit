@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "284734893372",
+    "project_id": "stay-fit-994db",
+    "storage_bucket": "stay-fit-994db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284734893372:android:7aad3ff48f8ec086cec239",
+        "android_client_info": {
+          "package_name": "com.example.nutrition_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284734893372-s46ecj5tivh8hmcu5l858i600tufpj7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9XdGzvWS3iAHKXz7bzOQka4A50L_LSgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284734893372-s46ecj5tivh8hmcu5l858i600tufpj7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
